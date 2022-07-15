@@ -8,7 +8,8 @@
 **What is the proyect about?**
 
 *The proyect is a CRUD system about cars*
-
+- Developed with: Angular, Node, Express, Mongo 
+- Host: Heroku (Backend) & Vercel (Frontend)
 ---
 
 **Check on:** [d3-challenge-client.vercel.app](https://d3-challenge-client.vercel.app/)
