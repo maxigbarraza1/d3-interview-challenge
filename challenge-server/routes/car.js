@@ -16,7 +16,6 @@ router.put('/:id',[
         check('model', 'The model is required').not().isEmpty(),
         check('color', 'The color is required').not().isEmpty(),
         check('patent', 'The patent is required').not().isEmpty(),
-        // check('patent').custom(isValidPatent),
         validateFields
         ], putCars);
 
